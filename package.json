@@ -16,13 +16,13 @@
     "@vuepress/plugin-medium-zoom": "^1.8.2",
     "async": "^3.2.4",
     "html-minifier-terser": "^7.0.0-beta.0",
-    "patch-package": "^6.4.7",
+    "patch-package": "^8.0.1",
     "sass-loader": "^7.3.1",
     "vuepress": "^1.9.7",
     "vuepress-plugin-code-copy": "^1.0.6"
   },
   "dependencies": {
-    "axios": "^0.28.0",
+    "axios": "^0.30.2",
     "cosmiconfig": "^7.0.1",
     "dayjs": "^1.10.4",
     "markdown-it-include": "^2.0.0",
